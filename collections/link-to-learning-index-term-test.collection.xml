@@ -1,43 +1,19 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="OpenStax Alina">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11723</md:content-id>
-  <md:title>Link to Learning Index Term Test</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>776545a6-26b6-4586-bd7f-c0588ced7488</md:uuid>
-<md:slug>link-to-learning-index-term-test</md:slug>
-</metadata>
-
+    <md:content-id>col11723</md:content-id>
+    <md:title>Link to Learning Index Term Test</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>776545a6-26b6-4586-bd7f-c0588ced7488</md:uuid>
+    <md:slug>link-to-learning-index-term-test</md:slug>
+  </metadata>
   <col:content>
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter Only</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m51892"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
+    <col:subcollection>
+      <md:title>Chapter Only</md:title>
+      <col:content>
+        <col:module document="m51892"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
